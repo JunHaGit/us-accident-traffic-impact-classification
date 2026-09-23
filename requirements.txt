@@ -1,0 +1,12 @@
+# Runtime dependencies inferred from the imports used in the project notebook.
+# Notebook metadata records Python 3.12.7, but exact package versions were not stored,
+# so dependencies are intentionally left unpinned.
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
+lightgbm
